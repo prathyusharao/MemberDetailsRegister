@@ -1,0 +1,4 @@
+com\memberdetails\registers\controller\MemberDetailsRegisterController.class
+com\memberdetails\registers\MemberDetailsRegisterApplication.class
+com\memberdetails\registers\repo\MemberDetailsRegisterRepository.class
+com\memberdetails\registers\model\MemberDetails.class
